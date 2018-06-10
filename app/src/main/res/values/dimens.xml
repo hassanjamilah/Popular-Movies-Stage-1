@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movie_image_width">140dp</dimen>
+    <dimen name="movie_image_height">162dp</dimen>
+    <dimen name="views_left_margin">16dp</dimen>
+    <dimen name="views_top_margin">24dp</dimen>
+    <dimen name="right_views_left_margin">8dp</dimen>
+    <dimen name="textviews_between_margins">4dp</dimen>
+    <dimen name="titles_text_size">24sp</dimen>
+    <dimen name="rate_title_topmargin">16dp</dimen>
+    <dimen name="overviewtitle_topmargin">8dp</dimen>
+    <dimen name="scroll_bottom_margin">16dp</dimen>
+    <dimen name="overview_textsize">18sp</dimen>
+    <dimen name="star_width">27dp</dimen>
+    <dimen name="movie_image_height_land1">150dp</dimen>
+    <dimen name="loading_textsize">24sp</dimen>
+    <dimen name="indicator_width">42dp</dimen>
+    <dimen name="indicator_height">42dp</dimen>
+
+</resources>
